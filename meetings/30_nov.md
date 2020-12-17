@@ -2,13 +2,13 @@
 
 This meeting was spent just to get introduced and make an initial plan.
 
-# Key takeaways
+### Key takeaways
 - Decided on an initial project workflow
     * Github repository for code collaboration and issue tracking
 - Prepared for the first project session
 - Goals until next meeting:
     * Everyone does individual research to get a grasp of the problem we are trying to solve
-    * Prepare links and resource to share at next meeting
+    * Prepare links and resources to share at next meeting
 - Next meeting scheduled Friday December 4th at 10:15
 
 
